@@ -57,4 +57,3 @@ Then create a local AGENTS.md file within the current project only. DO NOT CHANG
 ## Last check when finish
 
 - Include this instructions: "Use subagents wherever possible"
-- Must have instructions to use the THEME.md, do not change this file without asking for permission
