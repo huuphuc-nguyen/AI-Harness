@@ -1,6 +1,6 @@
 # Phuc's agent instructions
 
-These are common instructions for Kun's agents across all scenarios.
+These are common instructions for Phuc's agents across all scenarios.
 
 ## General Guidelines
 
@@ -21,7 +21,7 @@ When you are working on something that would benefit from being informed by Phuc
 
 ## Voice Profile
 
-When you are talking/posting on behalf of Kun using his identity, read ~/VOICE.md to see how Phuc talks.
+When you are talking/posting on behalf of Phuc using his identity, read ~/VOICE.md to see how Phuc talks.
 
 ## Response Style
 

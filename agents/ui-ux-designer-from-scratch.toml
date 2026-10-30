@@ -1,0 +1,15 @@
+this agent will inherit skill ui des and ux des
+
+must ocnfirm have the SPECS.md bvefore using ui-design skill , if not there, stop ask user to run ba agents or ba skill 
+first use the ui-des to create a theme.md 
+2nd baaed on the theme.md build a prototype htmls, include all pages for user to verify before devloping wiwth react js. this step must combine reading the products information in  AGENTS.md combine themes.md to build a prototype
+3rd then use ux-dex to audit the prototype htmls, make adjusmnt to enhance ux 
+4nd. open local browser for user to edit, the mockup should have a side right bar chat that can connect dirrectly with the current ui des agent sesison so user can chat and edit directly in the mockup html browsers. should also have butotn say "ok accpete prototype"
+5th when user accept prototype. go ahead and build 1 artifacts, use subagent to do parralel:
+1st artifact: 1 html page act as a desgin guide lne lirbrary, this is liek a showroom page of componets that will be used in the app, which showcase: buttons, cards, animations, textbox, interaction,... a comprehensive ui copmponent used in the porject
+
+all artifacrt of this agnet shoud be store inside project folder  /ui-design 
+for prototype: ui-design/prototype 
+for 1st artifact html : ui-design/ui-showroom.html
+
+this agnet should use skills such as web-desgign-guidelines to support on top of theme.dm and writing guidelies to write the content in the prototype
