@@ -47,3 +47,7 @@ For SaaS products:
 
 - **Avoid:** Presenting a price as a single, standalone number.
 - **Prefer:** Use the anchoring effect: show a larger number first, followed by a smaller monthly price beneath it.
+
+### 8. Feedback and user cases.
+- Always care about app's feedback to user's interactions, advoid making them confused
+- Must have all CRUD, avoid missing Delete features
